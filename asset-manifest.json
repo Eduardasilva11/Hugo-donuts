@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.db90797e.css",
-    "main.js": "/static/js/main.72a175a8.js",
-    "index.html": "/index.html",
-    "main.db90797e.css.map": "/static/css/main.db90797e.css.map",
-    "main.72a175a8.js.map": "/static/js/main.72a175a8.js.map"
+    "main.css": "/hugo-donuts/static/css/main.db90797e.css",
+    "main.js": "/hugo-donuts/static/js/main.72a175a8.js",
+    "index.html": "/hugo-donuts/index.html",
+    "main.db90797e.css.map": "/hugo-donuts/static/css/main.db90797e.css.map",
+    "main.72a175a8.js.map": "/hugo-donuts/static/js/main.72a175a8.js.map"
   },
   "entrypoints": [
     "static/css/main.db90797e.css",
